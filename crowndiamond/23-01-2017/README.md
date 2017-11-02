@@ -1,10 +1,10 @@
 These files were downloaded on 23/01/207 from:
 
-http://www.crowndiamond.org/cd/genesis.html
-http://www.crowndiamond.org/cd/exodus.html
-http://www.crowndiamond.org/cd/leviticus.html
-http://www.crowndiamond.org/cd/numbers.html
-http://www.crowndiamond.org/cd/deuteronomy.html
+* http://www.crowndiamond.org/cd/genesis.html
+* http://www.crowndiamond.org/cd/exodus.html
+* http://www.crowndiamond.org/cd/leviticus.html
+* http://www.crowndiamond.org/cd/numbers.html
+* http://www.crowndiamond.org/cd/deuteronomy.html
 
 The format of the files hosted on [crowndiamond.org](crowndiamond.org) has subsequently changed, so I'm reposting the earlier copies here (while I rewrite my scraper to deal with the new versions).
 
