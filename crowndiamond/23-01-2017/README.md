@@ -16,4 +16,4 @@ According to my email conversations with B. Finton, who originally posted the fi
 > 
 > "I copyright nothing."
 
-Accordingly, in places where it is legal to do so, I dedicate these copies to the public domain. In places where I may not legally do that you may consider them to be licensed under the terms of [CC0](https://wiki.creativecommons.org/wiki/CC0).
+Accordingly, in places where it is legal to do so, I dedicate these copies to the public domain. In places where I may not legally do that you may consider them to be licensed under the terms of [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
